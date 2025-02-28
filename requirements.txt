@@ -1,3 +1,4 @@
 flask #pip install -r.txt
 gunicorn #google - generativeai
 google-generativeai
+textblob
